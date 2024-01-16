@@ -377,10 +377,7 @@
     "country_label": "País/região",
     "language_label": "Idioma",
     "update_language": "Atualizar idioma",
-    "update_country": "Atualizar país/região",
-    "search": "Pesquisar",
-    "popular_countries_regions": "Países/regiões populares",
-    "country_results_count": "{{ count }} países/regiões encontrados"
+    "update_country": "Atualizar país/região"
   },
   "customer": {
     "account": {

@@ -1640,25 +1640,12 @@
           "name": "Selettore di variante",
           "settings": {
             "picker_type": {
-              "label": "Stile",
+              "label": "Tipo",
               "options__1": {
                 "label": "Menu a discesa"
               },
               "options__2": {
                 "label": "\"A pillole\""
-              }
-            },
-            "swatch_shape": {
-              "label": "Campione di colore",
-              "info": "Scopri come visualizzare i [campioni di colore](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches)",
-              "options__1": {
-                "label": "Tondo"
-              },
-              "options__2": {
-                "label": "Quadrato"
-              },
-              "options__3": {
-                "label": "Nessuno"
               }
             }
           }
@@ -2495,25 +2482,12 @@
           "name": "Selettore di variante",
           "settings": {
             "picker_type": {
-              "label": "Stile",
+              "label": "Tipo",
               "options__1": {
                 "label": "Menu a discesa"
               },
               "options__2": {
                 "label": "\"A pillole\""
-              }
-            },
-            "swatch_shape": {
-              "label": "Campione di colore",
-              "info": "Scopri come visualizzare i [campioni di colore](https://help.shopify.com/en/manual/online-store/themes/theme-structure/theme-settings#options-with-swatches)",
-              "options__1": {
-                "label": "Tondo"
-              },
-              "options__2": {
-                "label": "Quadrato"
-              },
-              "options__3": {
-                "label": "Nessuno"
               }
             }
           }

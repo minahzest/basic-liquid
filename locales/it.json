@@ -377,10 +377,7 @@
     "country_label": "Paese/Area geografica",
     "language_label": "Lingua",
     "update_language": "Aggiorna lingua",
-    "update_country": "Aggiorna paese/area geografica",
-    "search": "Cerca",
-    "popular_countries_regions": "Paesi/aree geografiche popolari",
-    "country_results_count": "{{ count }} paesi/aree geografiche trovati"
+    "update_country": "Aggiorna paese/area geografica"
   },
   "customer": {
     "account": {

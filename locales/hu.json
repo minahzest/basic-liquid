@@ -365,10 +365,7 @@
     "country_label": "Ország/régió",
     "language_label": "Nyelv",
     "update_language": "Nyelv módosítása",
-    "update_country": "Ország/régió frissítése",
-    "search": "Keresés",
-    "popular_countries_regions": "Népszerű országok/régiók",
-    "country_results_count": "{{ count }} ország/régió található"
+    "update_country": "Ország/régió frissítése"
   },
   "customer": {
     "account": {
